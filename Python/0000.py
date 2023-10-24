@@ -1,5 +1,3 @@
-print("PARI")
-print("I")
 from turtle import*
 color("red")
 begin_fill()
@@ -22,4 +20,3 @@ right(140)
 circle(50,200)
 forward(133)
 end_fill()
-print("YOU")
